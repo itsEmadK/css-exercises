@@ -4,3 +4,8 @@
     font-size: 28px;
     font-family: 'Helvetica', 'Times New Romans', sans-serif;
 }
+
+.click-me {
+    color: #FFFFFF;
+    background-color: #000000;
+}
