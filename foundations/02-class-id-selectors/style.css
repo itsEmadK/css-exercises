@@ -3,6 +3,10 @@
     font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
+.third-element {
+    font-size: 24px;
+}
+
 #div1 {
     color: hsl(240, 75%, 52%);
     font-size: 36px;
