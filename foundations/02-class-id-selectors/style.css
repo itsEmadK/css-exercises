@@ -2,3 +2,9 @@
     background-color: #e29898;
     font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
+
+#div1 {
+    color: hsl(240, 75%, 52%);
+    font-size: 36px;
+}
+
