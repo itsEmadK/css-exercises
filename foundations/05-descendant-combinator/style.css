@@ -1,3 +1,4 @@
+/* using only type selectors(type type): */
 /* div p {
     background-color: yellow;
     color: red;
@@ -5,6 +6,7 @@
     text-align: center;
 } */
 
+/* using only class selectors(.class .class): */
 /* .container .text {
     background-color: yellow;
     color: red;
@@ -12,6 +14,7 @@
     text-align: center;
 } */
 
+/* using both type and class selector(type .class): */
 /* div .text {
     background-color: yellow;
     color: red;
@@ -19,6 +22,7 @@
     text-align: center;
 } */
 
+/* using both type and class selector(.class type): */
 .container p {
     background-color: yellow;
     color: red;
