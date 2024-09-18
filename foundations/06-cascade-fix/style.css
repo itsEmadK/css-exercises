@@ -8,6 +8,22 @@ body {
   font-weight: 800;
 }
 
+/* .para.small-para {
+  font-size: 14px;
+  font-weight: 800;
+} */
+
+/* body .small-para {
+  font-size: 14px;
+  font-weight: 800;
+} */
+
+/* p.small-para {
+  font-size: 14px;
+  font-weight: 800;
+}
+ */
+
 .para {
   font-size: 22px;
 }
@@ -17,13 +33,35 @@ body {
   font-weight: 800;
 }
 
-
-
-.confirm {
+/* .button.confirm {
   background: green;
   color: white;
   font-weight: bold;
-} 
+}  */
+
+/* .button#confirm-button {
+  background: green;
+  color: white;
+  font-weight: bold;
+}  */
+
+/* body .confirm {
+  background: green;
+  color: white;
+  font-weight: bold;
+}  */
+
+/* body .button.confirm {
+  background: green;
+  color: white;
+  font-weight: bold;
+}  */
+
+/* #confirm-button {
+  background: green;
+  color: white;
+  font-weight: bold;
+}  */
 
 .button {
   background-color: rgb(255, 255, 255);
@@ -31,14 +69,45 @@ body {
   font-size: 20px;
 }
 
-.child {
+.confirm {
+  background: green;
+  color: white;
+  font-weight: bold;
+} 
+
+/* .text.child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
-}
+} */
+
+/* .text .child {
+  color: rgb(0, 0, 0);
+  font-weight: 800;
+  font-size: 14px;
+} */
+
+/* div .text.child {
+  color: rgb(0, 0, 0);
+  font-weight: 800;
+  font-size: 14px;
+} */
+
 
 div.text {
   color: rgb(0, 0, 0);
   font-size: 22px;
   font-weight: 100;
+}
+
+/* div .child {
+  color: rgb(0, 0, 0);
+  font-weight: 800;
+  font-size: 14px;
+} */
+
+div.child {
+  color: rgb(0, 0, 0);
+  font-weight: 800;
+  font-size: 14px;
 }
