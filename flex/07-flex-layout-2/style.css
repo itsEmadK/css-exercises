@@ -71,3 +71,9 @@ a {
   flex-direction: column;
   gap: 16px;
 }
+
+.cards {
+  padding: 48px;
+  display: flex;
+  flex-wrap: wrap;
+}
