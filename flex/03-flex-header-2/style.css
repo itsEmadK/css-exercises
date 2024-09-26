@@ -59,3 +59,7 @@ ul {
   gap: 16px;
   align-items: center;
 }
+
+.notifications {
+  margin-left: auto;
+}
