@@ -40,6 +40,6 @@ img {
 }
 
 .plant-item {
-  width: 200px;
+  max-width: 200px;
   text-align: center;
 }
