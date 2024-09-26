@@ -13,11 +13,16 @@ body {
 }
 
 .header {
-  height: 72px;
-  background: darkmagenta;
   color: white;
   font-size: 32px;
   font-weight: 900;
+}
+
+.header-container {
+  height: 72px;
+  display: flex;
+  background: darkmagenta;
+  align-items: center;
 }
 
 .footer {
