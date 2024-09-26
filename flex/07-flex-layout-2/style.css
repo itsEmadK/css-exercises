@@ -44,6 +44,11 @@ body {
   border-radius: 4px;
 }
 
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 .main-section {
   flex: 1;
