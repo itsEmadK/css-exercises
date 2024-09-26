@@ -37,3 +37,7 @@ img {
   display: flex;
   gap: 52px;
 }
+
+.plant-item {
+  width: 200px;
+}
