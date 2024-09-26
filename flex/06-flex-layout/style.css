@@ -37,10 +37,12 @@ input {
 .header {
   display: flex;
   justify-content: space-between;
+  padding: 12px;
 }
 
 .left-links,
 .right-links {
   display: flex;
   list-style-type: none;
+  gap: 12px;
 }
