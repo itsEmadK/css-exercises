@@ -31,3 +31,8 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.info-section {
+  display: flex;
+  gap: 52px;
+}
