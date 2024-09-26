@@ -19,6 +19,7 @@ body {
   background: white;
   align-items: center;
   gap: 16px;
+  padding: 8px;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
 }
